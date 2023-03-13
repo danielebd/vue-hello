@@ -6,7 +6,9 @@ createApp({
     data() {
         return {
             //elemento da inserire nell' HTML
-            message: 'hello Vue!'
+            message: 'hello Vue!',
+            img: 'https://picsum.photos/id/0/200/300',
+            
         }
     }
 //punto di inserimento dati .mount
